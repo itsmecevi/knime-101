@@ -42,7 +42,7 @@ _____
 
 
 
-### Slide: [Knime-Academy-Beginner]()
+### Slide: [Knime-Academy-101]()
 
 * Read Data
 * Transform
